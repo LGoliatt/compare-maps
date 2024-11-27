@@ -1,4 +1,3 @@
-Requirements:
 pip install streamlit
 pip install folium
 pip install streamlit_folium
